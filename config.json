@@ -1,0 +1,14 @@
+{
+  "requestSize": 100,
+  "groupID": "",
+  "token": "",
+  "users": {
+      "system": "System",
+    "46185459": "Zo",
+    "29763423": "Luc Lagarde"
+  },
+  "dbPath": "cache/groupme.db",
+  "avatarCache": "cache/avatars",
+  "attachmentCache": "cache/attachments",
+  "outputDir": "generated"
+}
